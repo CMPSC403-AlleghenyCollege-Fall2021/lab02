@@ -39,7 +39,7 @@ In this lab you will continue with the assembly exploration, specifically by lea
 This assignment invites you to submit the following deliverables.
 
 1. Lab 2.1 on TryHackMe.
-2. Lab 2.2 on TryHackMe. Take screenshots and submit them in your report.
+2. Lab 2.2 on TryHackMe. Take screenshots and submit them in your report. Submit final Python programs via GitHub.
 3. Lab 2.3: A C program with a buffer overflow vulnerability that displays a student grade of F (see below for a sample output), and then provide an exploitation solution that uses the vulnerability to change to grade to an A (use class example as a motivation). The original C program submitted via your lab 02 repository. The exploitation must be either demonstrated in the report (for example, what is inputted to create an exploitation, how it is exploited, etc.) and/or a shell code must be submitted via lab02 repository.
 
 Sample output:
