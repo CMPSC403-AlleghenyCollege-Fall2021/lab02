@@ -16,7 +16,7 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the assignment for Laboratory 2 assignment in Computer Science 403.
 
-This laboratory assignment invites you to work individually to participate in the assembly cracking challenge and to complete "Buffer Overflow" room on TryHackMe. You are also responsible for writing a detailed reflection, stored in the file `reflection.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
+This laboratory assignment invites you to work individually to participate in the assembly cracking challenge, to complete "Buffer Overflow" room on TryHackMe, and to manufacture and exploit a buffer overflow in a C program. You are also responsible for writing a detailed reflection, stored in the file `reflection.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
 
 ## Objectives
 
@@ -30,8 +30,9 @@ Throughout the completion of this project you must adhere to the [community guid
 
 In this lab you will continue with the assembly exploration, specifically by learning how to crack passwords by inspecting assembly code. You are then invited to explore the concept of buffer overflows by completing a TryHackMe room connected to this topic. Then, you are invited to reflect on your experiences in a Markdown file given in this repository.
 
-1. Lab 2.1: [Introduction to the Shell]()
-2. Lab 2.2: [Common Linux Privesc]()
+1. Lab 2.1: [Assembly CrackMe Challenge]()
+2. Lab 2.2: [Buffer Overflow Walkthrough]()
+3. Lab 2.3: Create a C program that displays student grade of F with an intentional buffer overflow vulnerability. Then, demontrate the exploitation of this vulnerability. Use the VM on TryHackMe from Lab 2.1 or Lab 2.2 to test your program and its exploitation.
 
 ## Required Deliverables
 
@@ -39,6 +40,7 @@ This assignment invites you to submit the following deliverables.
 
 1. Lab 2.1 on TryHackMe.
 2. Lab 2.2 on TryHackMe.
+3. A C program with a buffer overflow vulnerability that displays a student grade of F, and provide an exploitation solution that uses the vulnerability to change to grade to an A. The original C program and its exploitation submitted via your lab 02 repository.
 4. Reflection document submitted via your lab02 repository.
 
 ## Assignment Assessment
