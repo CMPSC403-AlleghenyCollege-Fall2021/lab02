@@ -1,6 +1,6 @@
-# Lab 01 in CMPSC 403 Fall 2021
+# Lab 02 in CMPSC 403 Fall 2021
 
-## Deadline: September 10, 2021 by 3pm
+## Deadline: October 1, 2021 by 3pm
 
 ## Table of Contents
 
@@ -14,13 +14,13 @@
 
 ## Summary
 
-Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the assignment for Laboratory 1 assignment in Computer Science 403.
+Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains the assignment for Laboratory 2 assignment in Computer Science 403.
 
-This laboratory assignment invites you to work individually to complete "Shells and Privilege Escalation" module on TryHackMe. You are also responsible for writing a detailed reflection, stored in the file `reflection.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
+This laboratory assignment invites you to work individually to participate in the assembly cracking challenge and to complete "Buffer Overflow" room on TryHackMe. You are also responsible for writing a detailed reflection, stored in the file `reflection.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
 
 ## Objectives
 
-To learn and apply concept of privilege escalation to be able to identify how a system can be made vulnerable. To get a hands-on practice exploiting different types of machines through various vulnerabilities and misconfigurations. 
+To practice inspecting assembly code. To further learn and examine the idea of buffer overflows to be able to identify how that specific vulnerability can be exploited. 
 
 ## Code of Conduct
 
@@ -28,20 +28,18 @@ Throughout the completion of this project you must adhere to the [community guid
 
 ## Assignment Specification
 
-In this lab you will continue with the Linux exploration, specifically by learning how to send and receive shells when exploiting target machines, exploring common Linux privilege escalation vulnerabilities and techniques. You are invited to complete three rooms connected to these topics, which correspond to TryHackMe assignments Lab 1.1, Lab 1.2, and Lab 1.3 shown below. Then, you are invited to reflect on your experiences in a Markdown file given in this repository.
+In this lab you will continue with the assembly exploration, specifically by learning how to crack passwords by inspecting assembly code. You are then invited to explore the concept of buffer overflows by completing a TryHackMe room connected to this topic. Then, you are invited to reflect on your experiences in a Markdown file given in this repository.
 
-1. Lab 1.1: [Introduction to the Shell](https://tryhackme.com/jr/alleghenyintrotoshellswy)
-2. Lab 1.2: [Common Linux Privesc](https://tryhackme.com/jr/commonlinuxprivescso)
-3. Lab 1.3: [Linux PrivEsc](https://tryhackme.com/jr/alleghenylinuxprivescit)
+1. Lab 2.1: [Introduction to the Shell]()
+2. Lab 2.2: [Common Linux Privesc]()
 
 ## Required Deliverables
 
 This assignment invites you to submit the following deliverables.
 
-1. Lab 1.1 on TryHackMe.
-2. Lab 1.2 on TryHackMe.
-3. Lab 1.3 on TryHackMe.
-4. Reflection document submitted via your lab01 repository.
+1. Lab 2.1 on TryHackMe.
+2. Lab 2.2 on TryHackMe.
+4. Reflection document submitted via your lab02 repository.
 
 ## Assignment Assessment
 
