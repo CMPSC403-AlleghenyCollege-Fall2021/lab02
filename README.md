@@ -20,7 +20,7 @@ This laboratory assignment invites you to work individually to participate in th
 
 ## Objectives
 
-To practice inspecting assembly code. To further learn and examine the idea of buffer overflows to be able to identify how that specific vulnerability can be exploited. 
+To practice inspecting assembly code. To further learn and examine the idea of buffer overflows to be able to identify how that specific vulnerability can be exploited. To exprience working in both Linux and Windows machines.
 
 ## Code of Conduct
 
@@ -28,7 +28,7 @@ Throughout the completion of this project you must adhere to the [community guid
 
 ## Assignment Specification
 
-In this lab you will continue with the assembly exploration, specifically by learning how to crack passwords by inspecting assembly code. You are then invited to explore the concept of buffer overflows by completing a TryHackMe room connected to this topic. Then, you are invited to reflect on your experiences in a Markdown file given in this repository.
+In this lab you will continue with the assembly exploration, specifically by learning how to crack passwords by inspecting assembly code. You are then invited to explore the concept of buffer overflows by completing a TryHackMe room connected to this topic and to design your own buffer overflow exploitation example. Finally, you are invited to reflect on your experiences in a Markdown file given in this repository.
 
 1. Lab 2.1: [Assembly CrackMe Challenge]()
 2. Lab 2.2: [Buffer Overflow Walkthrough]()
@@ -39,7 +39,7 @@ In this lab you will continue with the assembly exploration, specifically by lea
 This assignment invites you to submit the following deliverables.
 
 1. Lab 2.1 on TryHackMe.
-2. Lab 2.2 on TryHackMe.
+2. Lab 2.2 on TryHackMe. Take screenshots and submit them in your report.
 3. Lab 2.3: A C program with a buffer overflow vulnerability that displays a student grade of F (see below for a sample output), and then provide an exploitation solution that uses the vulnerability to change to grade to an A (use class example as a motivation). The original C program submitted via your lab 02 repository. The exploitation must be either demonstrated in the report (for example, what is inputted to create an exploitation, how it is exploited, etc.) and/or a shell code must be submitted via lab02 repository.
 
 Sample output:
@@ -64,9 +64,9 @@ To take the best advantage of the content covered in class, it is recommended th
 
 The grade that a student receives on this assignment will have the following components.
 
-- **Mastery of Technical Writing [up to 20%]:**: Students will receive a part of their grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
+- **Mastery of Technical Writing [up to 25%]:**: Students will receive a part of their grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
 
-- **Mastery of Technical Knowledge and Skills [up to 80%]**: Students will receive a full portion of this part of their assignment grade when their completed assignments on TryHackMe for this lab reveal that they have mastered all of the technical knowledge and skills developed during the completion of this lab. As a part of this grade, the instructor will assess aspects of the lab including, but not limited to, the number of questions completed and the points received on TryHackMe platform.
+- **Mastery of Technical Knowledge and Skills [up to 75%]**: Students will receive a full portion of this part of their assignment grade when their completed assignments on TryHackMe for this lab reveal that they have mastered all of the technical knowledge and skills developed during the completion of this lab. As a part of this grade, the instructor will assess aspects of the lab including, but not limited to, the number of questions completed and the points received on TryHackMe platform.
 
 All grades for this project will be reported through a student's gradebook GitHub repository and the feedback pull request in this repository.
 
