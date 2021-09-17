@@ -40,8 +40,17 @@ This assignment invites you to submit the following deliverables.
 
 1. Lab 2.1 on TryHackMe.
 2. Lab 2.2 on TryHackMe.
-3. Lab 2.3: A C program with a buffer overflow vulnerability that displays a student grade of F, and provide an exploitation solution that uses the vulnerability to change to grade to an A. The original C program and its exploitation submitted via your lab 02 repository.
-4. Reflection document submitted via your lab02 repository.
+3. Lab 2.3: A C program with a buffer overflow vulnerability that displays a student grade of F (see below for a sample output), and then provide an exploitation solution that uses the vulnerability to change to grade to an A (use class example as a motivation). The original C program submitted via your lab 02 repository. The exploitation must be either demonstrated in the report (for example, what is inputted to create an exploitation, how it is exploited, etc.) and/or a shell code must be submitted via lab02 repository.
+
+Sample output:
+
+```
+What is your name?
+>> Janyl
+Janyl, your current grade in CMPSC 403 is F
+```
+
+5. Reflection document submitted via your lab02 repository.
 
 ## Recommended Timeline
 
