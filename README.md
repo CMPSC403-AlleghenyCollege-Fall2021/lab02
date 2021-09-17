@@ -40,8 +40,16 @@ This assignment invites you to submit the following deliverables.
 
 1. Lab 2.1 on TryHackMe.
 2. Lab 2.2 on TryHackMe.
-3. A C program with a buffer overflow vulnerability that displays a student grade of F, and provide an exploitation solution that uses the vulnerability to change to grade to an A. The original C program and its exploitation submitted via your lab 02 repository.
+3. Lab 2.3: A C program with a buffer overflow vulnerability that displays a student grade of F, and provide an exploitation solution that uses the vulnerability to change to grade to an A. The original C program and its exploitation submitted via your lab 02 repository.
 4. Reflection document submitted via your lab02 repository.
+
+## Recommended Timeline
+
+To take the best advantage of the content covered in class, it is recommended that you scaffold the completion of lab 2 in the following manner:
+
+1. Complete Lab 2.1 before class on Tuesday, September 21st.
+2. Complete Lab 2.2 before lab on Friday, September 24th.
+3. Complete Lab 2.3 before lab on Friday, October 1st.
 
 ## Assignment Assessment
 
