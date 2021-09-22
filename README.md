@@ -30,8 +30,8 @@ Throughout the completion of this project you must adhere to the [community guid
 
 In this lab you will continue with the assembly exploration, specifically by learning how to crack passwords by inspecting assembly code. You are then invited to explore the concept of buffer overflows by completing a TryHackMe room connected to this topic and to design your own buffer overflow exploitation example. Finally, you are invited to reflect on your experiences in a Markdown file given in this repository.
 
-1. Lab 2.1: [Assembly CrackMe Challenge]()
-2. Lab 2.2: [Buffer Overflow Walkthrough]()
+1. Lab 2.1: [Assembly CrackMe Challenge](https://tryhackme.com/jr/introtox8664oj8z)
+2. Lab 2.2: [Buffer Overflow Walkthrough](https://tryhackme.com/jr/alleghenybufferoverflowgo)
 3. Lab 2.3: Create a C program that displays student grade of F with an intentional buffer overflow vulnerability. Then, demontrate the exploitation of this vulnerability. Use the VM on TryHackMe from Lab 2.1 or Lab 2.2 to test your program and its exploitation.
 
 ## Required Deliverables
