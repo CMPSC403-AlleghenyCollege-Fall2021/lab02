@@ -1,6 +1,6 @@
 # Lab 02 in CMPSC 403 Fall 2021
 
-## Deadline: October 1, 2021 by 3pm
+## Deadline: October 8, 2021 by 3pm
 
 ## Table of Contents
 
